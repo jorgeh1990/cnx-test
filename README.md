@@ -11,6 +11,7 @@ https://cnx-test.azurewebsites.net/api/ProductFuntion?color=
 
 
 local.settings.json
+```
 {
   "IsEncrypted": false,
   "Values": {
@@ -20,3 +21,4 @@ local.settings.json
     "SalesLTConnectionString": "Server=tcp:test-cnx.database.windows.net,1433;Initial Catalog=AdventureWorks; Persist Security Info=False;User ID=cnx_guest;Password=FZfh95bXJChH3QH8; MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
   }
 }
+```
