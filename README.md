@@ -11,7 +11,7 @@ https://cnx-test.azurewebsites.net/api/ProductFuntion?color=
 
 
 local.settings.json
-```
+```json
 {
   "IsEncrypted": false,
   "Values": {
